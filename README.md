@@ -1,4 +1,11 @@
 # airplane
 airplanedesign
-Este mensaje es para ver como arreglo el git para que pueda trabajar con mi compu
-Segundo comit para saber si esto es lo que quiero
+
+La idea de esta Git es compartir los conocimientos e imagenes que tengo de la construccion del Polliwagen
+
+Cualquier aporte sera bienvendio
+
+Salduos
+
+
+

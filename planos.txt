@@ -1,3 +1,5 @@
-Los planos estan aqui
+Este archivo es para la notacion de los planos
 
-Si yo quiero
+Segun su parte en el avion seran los siguientes:
+
+
