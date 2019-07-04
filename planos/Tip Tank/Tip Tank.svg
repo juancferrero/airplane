@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="297mm" height="210mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 29700 21000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+   <clipPath id="id0">
+    <path d="M-135 21141l0 -17357 27940 0 0 17357 -27940 0z"/>
+   </clipPath>
+    <clipPath id="id1">
+     <rect transform="matrix(2.64845E-014 -1 1 2.64845E-014 -134.56 21141)" width="17357" height="27940"/>
+    </clipPath>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image id="MYSCAN_20180305_0004.TIF" style="clip-path:url(#id1)" transform="matrix(2.64845E-014 -1 1 2.64845E-014 -134.58 21141)" x="0" y="0" width="17357" height="27940" xlink:href="Tip Tank_Images\Tip Tank_ImgID1.png"/>
+  </g>
+ </g>
+</svg>
